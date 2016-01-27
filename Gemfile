@@ -45,4 +45,8 @@ group :development do
   gem 'spring'
 end
 
+# For Heroku
 gem 'rails_12factor'
+
+# For Style
+gem 'bootstrap-sass', '~> 3.3.6'
